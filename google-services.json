@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "plucky-cascade-117114",
+    "project_number": "250475317666",
+    "name": "My Project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250475317666:android:fcc265cb6752d734",
+        "client_id": "android:johnkagga.me.appinvites",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "johnkagga.me.appinvites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250475317666-em2n807enduob56ln57fra1ilnfs0r2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "johnkagga.me.appinvites",
+            "certificate_hash": "F7F728873B230310D6CF3DE950CD7B36D77769EC"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
